@@ -1,0 +1,39 @@
+{
+  "events": [
+    {
+      "id": "1",
+      "title": "Community Concert",
+      "date": "2025-04-15",
+      "time": "3:00 PM",
+      "location": "Community Center",
+      "locationDetail": "Main Hall",
+      "description": "A family-friendly performance celebrating inclusion and music. All are welcome.",
+      "type": "performance",
+      "rsvpLink": "/connect",
+      "rsvpLabel": "RSVP"
+    },
+    {
+      "id": "2",
+      "title": "Rehearsal",
+      "date": "2025-04-08",
+      "time": "6:00 PM – 7:30 PM",
+      "location": "TBA",
+      "description": "Weekly rehearsal. Location sent by text to participants.",
+      "type": "rehearsal",
+      "rsvpLabel": "Confirm Attendance",
+      "rsvpLink": "/connect"
+    },
+    {
+      "id": "3",
+      "title": "Spring Performance",
+      "date": "2025-05-20",
+      "time": "2:00 PM",
+      "location": "Venue TBA",
+      "description": "Details coming soon. Connect with us to get updates.",
+      "type": "performance",
+      "isComingSoon": true,
+      "rsvpLink": "/connect",
+      "rsvpLabel": "Get Updates"
+    }
+  ]
+}

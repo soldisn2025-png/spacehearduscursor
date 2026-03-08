@@ -1,0 +1,31 @@
+{
+  "members": [
+    {
+      "id": "courtney-lee",
+      "name": "Courtney Lee",
+      "role": "Leader & Violin",
+      "shortBio": "Courtney leads Space Heard Us with a heart shaped by the special needs community. She brings the vision of inclusion and music to life.",
+      "extendedStory": "Courtney's life has been deeply shaped by the special needs community through her own family. She founded Space Heard Us to serve the community and to shine a light on the unique gifts and talents of children with disabilities.",
+      "image": "/images/team/courtney-lee.png",
+      "order": 1
+    },
+    {
+      "id": "kaden-joo",
+      "name": "Kaden Joo",
+      "role": "Piano",
+      "shortBio": "Kaden brings joy and dedication to every performance and rehearsal, sharing his gift of music with the group and the community.",
+      "extendedStory": "",
+      "image": "/images/team/kaden-joo.png",
+      "order": 2
+    },
+    {
+      "id": "eric-kim",
+      "name": "Eric Kim",
+      "role": "Singer & Percussion",
+      "shortBio": "Eric shares his voice and rhythm with Space Heard Us, connecting with audiences through song and percussion.",
+      "extendedStory": "",
+      "image": "/images/team/eric-kim.png",
+      "order": 3
+    }
+  ]
+}
